@@ -1,0 +1,29 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.m-top {
+    margin-top: 18px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.fs-card-details {
+    font-size: 14px;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+.card-item-mx {
+    margin: 0 6px;
+}
+
+.item-details {
+    margin: 18px 0;
+}
